@@ -1,1 +1,1 @@
-# ImageStorage
+# 画像置き場
